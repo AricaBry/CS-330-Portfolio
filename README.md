@@ -8,3 +8,8 @@ Although working with 3D modeling was new to me, I still was able to use familia
 
 # 3. How can computer science help me in reaching my goals? 
 Computational graphics and visualizations have given me new knowledge and skills that I know can be applied to my future courses and my future professional goals. Computer graphics are used in many businesses and applications such as Google Earth, VR development, and many games. Having the knowledge gained from this course will make me better equipped to learn and work in environments that use similar applications.
+
+Real Image vs 3D Model:
+![MilestoneImage](https://github.com/AricaBry/CS-330-Portfolio/assets/99919870/87979e82-2cd6-4cd5-a91d-7acc66900bbb)
+
+![project](https://github.com/AricaBry/CS-330-Portfolio/assets/99919870/b6193bdb-7fbd-49ae-946e-8997c803e62b)
